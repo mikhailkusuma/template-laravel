@@ -1,0 +1,10 @@
+{"type":"FeatureCollection", "features": [
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.48203619700007,-8.318915903999937,0,-1.7976931348623157e+308]},"properties":{"NAMOBJ":"","FCODE":"","JNKPOS":999,"REMARK":"Kantor Pos Lainnya","SRS_ID":"","LCODE":"HC0080","METADATA":""}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.44898241300007,-8.263126984999928,0,-1.7976931348623157e+308]},"properties":{"NAMOBJ":"","FCODE":"","JNKPOS":999,"REMARK":"Kantor Pos Lainnya","SRS_ID":"","LCODE":"HC0080","METADATA":""}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.45108435000009,-8.161803919999954,0,-1.7976931348623157e+308]},"properties":{"NAMOBJ":"","FCODE":"","JNKPOS":999,"REMARK":"Kantor Pos Lainnya","SRS_ID":"","LCODE":"HC0080","METADATA":""}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.38906172500003,-8.118696107999938,0,-1.7976931348623157e+308]},"properties":{"NAMOBJ":"","FCODE":"","JNKPOS":999,"REMARK":"Kantor Pos Lainnya","SRS_ID":"","LCODE":"HC0080","METADATA":""}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.549930915,-8.336244342999976,0,-1.7976931348623157e+308]},"properties":{"NAMOBJ":"","FCODE":"","JNKPOS":999,"REMARK":"Kantor Pos Lainnya","SRS_ID":"","LCODE":"HC0080","METADATA":""}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.5319793970001,-8.281636029999959,0,-1.7976931348623157e+308]},"properties":{"NAMOBJ":"","FCODE":"","JNKPOS":999,"REMARK":"Kantor Pos Lainnya","SRS_ID":"","LCODE":"HC0080","METADATA":""}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.53410478900003,-8.202103516999955,0,-1.7976931348623157e+308]},"properties":{"NAMOBJ":"","FCODE":"","JNKPOS":999,"REMARK":"Kantor Pos Lainnya","SRS_ID":"","LCODE":"HC0080","METADATA":""}},
+    {"type":"Feature","geometry":{"type":"Point","coordinates":[113.6075265390001,-8.209942012999932,0,-1.7976931348623157e+308]},"properties":{"NAMOBJ":"","FCODE":"","JNKPOS":999,"REMARK":"Kantor Pos Lainnya","SRS_ID":"","LCODE":"HC0080","METADATA":""}}
+]}
